@@ -1,7 +1,6 @@
 package arrayString.FindPairSumEqualK;
 
-import java.util.ArrayList;
-import java.util.Collections;
+import java.util.*;
 import java.util.List;
 
 public class Arrays {
